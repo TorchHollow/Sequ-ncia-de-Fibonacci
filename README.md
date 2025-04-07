@@ -1,1 +1,3 @@
-# Sequ-ncia-de-Fibonacci
+# Sequencia-de-Fibonacci
+
+Sequência de Fibonacci feita em C.
